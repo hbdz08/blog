@@ -95,7 +95,19 @@ Multi-Touch 很多手势比较像 iPhone 上的操作，比如点击某东西只
 
 ![](https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/20210708224318.png)
 
+例如：
 
+**显示桌面**
+
+![](https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/20210708225019.gif)
+
+**显示启动台**
+
+![](https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/20210708225401.gif)
+
+**显示调度中心**
+
+![](https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/20210708225550.gif)
 
 
 # 系统篇
