@@ -93,7 +93,8 @@ categories:
 
 Multi-Touch 很多手势比较像 iPhone 上的操作，比如点击某东西只要轻点触控板即可，而不用完全按下（会听到声音）。比如 双指从触控板右侧边缘向左轻扫可查看通知中心，类似 iPhone 上从屏幕上方外侧向内扫。比如双指开合缩放图片和网页，跟 iPhone 上一样。
 
-例：
+![](https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/20210708224318.png)
+
 
 
 
