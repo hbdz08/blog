@@ -14,7 +14,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.hbdz08.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -100,9 +100,9 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hbdz08/hbdz08.github.io
+  repo: https://github.com/hbdz08/blog.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: master
+  branch: gh-pages
 
 symbols_count_time:
   symbols: true
