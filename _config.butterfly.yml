@@ -42,8 +42,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fa fa-github: https://github.com/hbdz08/hbdz08.github.io
-  fa fa-envelope: mailto:hbdz08@163.com
+  fa fa-github: https://github.com/hbdz08/hbdz08.github.io || GitHub
+  fa fa-envelope: mailto:hbdz08@163.com || Email
    
 
 # search (搜索)
@@ -156,7 +156,7 @@ post_meta:
 
 # wordcount (字數統計)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -180,7 +180,7 @@ toc:
   style_simple: false
 
 post_copyright:
-  enable: true
+  enable: false
   decode: false
   license: CC BY-NC-SA 4.0
   license_url: https://github.com/hbdz08/hbdz08.github.io
@@ -222,7 +222,7 @@ post_pagination: 1
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
-anchor: false
+anchor: true
 
 # Displays outdated notice for a post (文章過期提醒)
 noticeOutdate:
@@ -587,8 +587,8 @@ beautify:
 font:
   global-font-size:
   code-font-size:
-  font-family:
-  code-font-family:
+  font-family: 'sleek' # 全局字体
+  code-font-family: 'sleek' # 如果你想让代码块也使用自定义字体
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
@@ -636,7 +636,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   card_author:
     enable: true
     description:
@@ -646,7 +646,7 @@ aside:
       text: Follow Me
       link: https://github.com/xxxxxx
   card_announcement:
-    enable: true
+    enable: false
     content: 感謝訪問本站，若喜歡請收藏 ^_^
   card_recent_post:
     enable: true
@@ -848,7 +848,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+     <link rel="stylesheet" href="/css/Lete.css">
 
 # CDN
 # Don't modify the following settings unless you know how they work
