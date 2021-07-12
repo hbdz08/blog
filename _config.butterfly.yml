@@ -85,7 +85,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/1625819362741.png
+  img: https://file-1256865446.cos.ap-guangzhou.myqcloud.com/img/1626076481208.png
   effect: false
 
 # Disable all banner image
@@ -585,10 +585,10 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size:
+  global-font-size: 15px
   code-font-size:
-  font-family: 'sleek' # 全局字体
-  code-font-family: 'sleek' # 如果你想让代码块也使用自定义字体
+  font-family:   # 全局字体
+  code-font-family:  # 如果你想让代码块也使用自定义字体
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
